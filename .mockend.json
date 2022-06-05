@@ -1,6 +1,6 @@
 {
   "Ricetta": {
-    "ingredienti": {}
+    "ingredienti": {"string":{}}
   },
   "Ingrediente":{
     "nome":{}
