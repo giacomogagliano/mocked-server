@@ -1,5 +1,5 @@
 {
   "Ricetta": {
-    "ingredienti": []
+    "ingredienti": ["nome ricetta"]
   }
 }
