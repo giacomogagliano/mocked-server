@@ -1,8 +1,8 @@
 {
   "Ricetta": {
-    "ingredienti": "string"
+    "ingredienti": {}
   },
   "Ingrediente":{
-    "nome":"string"
+    "nome":{}
   }
 }
